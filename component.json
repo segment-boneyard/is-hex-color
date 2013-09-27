@@ -1,0 +1,12 @@
+{
+  "name": "is-hex-color",
+  "repo": "segmentio/is-hex-color",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Check whether a string is a hex color.",
+  "keywords": ["validate", "hex", "color"],
+  "development": {
+    "component/assert": "*"
+  },
+  "scripts": ["index.js"]
+}
